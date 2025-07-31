@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Drew Osmundson
+## I'm Drew Osmundson
 
 Full-Stack Developer • AI + Game Systems • Real-Time Multiplayer Engineer
 

@@ -39,7 +39,7 @@ Full-Stack Developer • AI + Game Systems • Real-Time Multiplayer Engineer
 
 ---
 
-## 🛠 Tooling & Practices
+## Tooling & Practices
 
 - GitHub for version control  
 - Responsive, scalable CSS design systems  

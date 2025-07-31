@@ -4,9 +4,7 @@ Full-Stack Developer • AI + Game Systems • Real-Time Multiplayer Engineer
 
 ---
 
-I'm a full-stack developer passionate about building interactive experiences—from real-time multiplayer games and simulations to developer tools and automation scripts. Whether it's crafting immersive Unity environments or developing snappy web apps with JavaScript and Socket.IO, I bring both creative energy and technical depth to every project.
 
----
 
 ## Core Strengths
 
@@ -76,7 +74,7 @@ I'm a full-stack developer passionate about building interactive experiences—f
 ## Let's Connect
 
 <!--- Portfolio: [drewosmundson.dev](https://your-portfolio-url.com)  -->
-- Email: [drewosmundson@gmail.com](mailto:drewosmundson@gmail.com)  
+- [drewosmundson@gmail.com](mailto:drewosmundson@gmail.com)  
 - [LinkedIn](https://linkedin.com/in/drewosmundson)  
 - [GitHub](https://github.com/drewosmundson)
 

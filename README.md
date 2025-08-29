@@ -15,21 +15,18 @@ A multiplayer **naval combat game** with real-time networking.
 - Built with **THREE.js** (3D graphics) + **Socket.IO** (networking)  
 - Designed **projectile logic, interpolation, and bandwidth-optimized sync**  
 - Procedural terrain using **Perlin noise**  
-- `Node.js, Express, Socket.IO, THREE.js`  
-[GitHub](#)  
+- `Node.js, Express, Socket.IO, THREE.js` [GitHub](#)  
 
 ### Jeoprody Buzzer  
 A **real-time multiplayer quiz buzzer app** for classrooms.  
 - Hosts control timers, players buzz in competitively  
 - Low-latency communication with **Socket.IO**  
-- `Node.js, Express, Socket.IO`  
-[GitHub](#)  
+- `Node.js, Express, Socket.IO` [GitHub](#)  
 
 ### Otto the Shepherd Dog  
 A 3D herding simulation in Unity featuring **flocking AI (Craig Reynolds’ Boids algorithm)** with an added “Dog force” for realistic sheep behavior.  
 - Implemented **capsule collision physics**, player controls, sound design, and particle effects  
-- `Unity, C#`  
-[Project Website](#)
+- `Unity, C#` [Project Website](#)
 
 
 ### Pinball Physics  
@@ -44,15 +41,13 @@ A developer automation tool for LeetCode’s daily problem.
 - Fetches challenges, parses JSON with JQ Api  
 - Auto-generates **Python, JavaScript, and C#** templates  
 - Includes **cross-platform installer** and persistent config  
-- `Bash, APIs, Python, JavaScript, C#`  
-[GitHub](#)  
+- `Bash, APIs, Python, JavaScript, C#` [GitHub](#)  
 
 ### Baxter Robot Tic-Tac-Toe  
 Tic-Tac-Toe on the **Baxter research robot** with AI integration.  
 - Implemented **Minimax with Alpha-Beta pruning** → reduced decision tree size by 60%  
 - Integrated with **OpenCV** and **MoveIt** for vision + robotics control  
-- `Python, Minimax AI, ROS`  
-[Prototype Repo](#)  
+- `Python, Minimax AI, ROS` [Prototype Repo](#)  
 
 ---
 
@@ -74,7 +69,7 @@ Tic-Tac-Toe on the **Baxter research robot** with AI integration.
 - Covers: Test Automation, Acceptance Testing, Regression Testing, Unit Testing, Test Planning  
 
 ---
-Thanks for visiting my profile! Feel free to connect I am always open to new opertunities.  
+Thanks for visiting my profile! Feel free to connect. I am always open to new opportunities.  
  **Portfolio:** [drewosmundson.github.io](https://drewosmundson.github.io)    
  **LinkedIn:** [linkedin.com/in/drewosmundson](https://linkedin.com/in/drewosmundson)  
  **Email:** drewosmundson@gmail.com  

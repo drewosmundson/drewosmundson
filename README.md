@@ -8,7 +8,9 @@ Welcome to my GitHub! I specialize in JavaScript, C#, Python, and SQL, with expe
  **LinkedIn:** [linkedin.com/in/drewosmundson](https://linkedin.com/in/drewosmundson)  
  **Email:** drewosmundson@gmail.com  
 
-## Featured Projects  
+---
+
+## Featured Projects
 
 ### Ahoy.IO  
 A multiplayer **naval combat game** with real-time networking.  

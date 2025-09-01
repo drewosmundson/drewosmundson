@@ -6,6 +6,7 @@ Welcome to my GitHub! I specialize in JavaScript, C#, Python, and SQL, with expe
 
  **Portfolio:** [drewosmundson.github.io](https://drewosmundson.github.io)  
  **LinkedIn:** [linkedin.com/in/drewosmundson](https://linkedin.com/in/drewosmundson)  
+ **Youtube**  [youtube.com/@drew-osmundson](https://www.youtube.com/@drew-osmundson).
  **Email:** drewosmundson@gmail.com  
 
 ---

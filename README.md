@@ -17,12 +17,4 @@ Welcome to my GitHub! I specialize in JavaScript, C#, Python, and SQL, with expe
 **Business & Analytical:** Data Analysis, Technical Reporting, Marketing Strategy  
 **Leadership & Communication:** Team Management, Training, Process Optimization  
 
----
-
-## Education & Certifications  
-
-**University of Minnesota – B.A. Computer Science, Minor in Management**  
-
-**Software Testing and Automation Specialization (In Progress)** – University of Minnesota  
-- Covers: Test Automation, Acceptance Testing, Regression Testing, Unit Testing, Test Planning  
 

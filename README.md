@@ -8,11 +8,12 @@ Welcome to my GitHub! I specialize in JavaScript, C#, Python, and SQL, with expe
  **LinkedIn:** [linkedin.com/in/drewosmundson](https://linkedin.com/in/drewosmundson)  
  **Youtube**  [youtube.com/@OsmundSoftware](https://www.youtube.com/@OsmundSoftware)  
  **Email:** drewosmundson@gmail.com  
-
-## Skills  
-
-**Languages:** JavaScript, C#, Python, SQL, HTML  
-**Frameworks & Libraries:** Node.js, Express, Socket.IO, .NET, THREE.js  
-**Tools:** Git, Docker, VS Code, Power BI, Excel
+ 
+## Languages
+JavaScript, C#, Python, SQL, HTML  
+## Frameworks & Libraries 
+Node.js, Express, Socket.IO, .NET, THREE.js  
+## Tools
+Git, Docker, VS Code, Power BI, Excel
 
 

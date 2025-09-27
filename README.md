@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Drew Osmundson  
 
 **Software Developer** | Full-Stack Development | Systems & Game Development  
 

@@ -13,8 +13,6 @@ Welcome to my GitHub! I specialize in JavaScript, C#, Python, and SQL, with expe
 
 **Languages:** JavaScript, C#, Python, SQL, HTML  
 **Frameworks & Libraries:** Node.js, Express, Socket.IO, .NET, THREE.js  
-**Tools:** Git, Docker, VS Code, Power BI, Excel  
-**Business & Analytical:** Data Analysis, Technical Reporting, Marketing Strategy  
-**Leadership & Communication:** Team Management, Training, Process Optimization  
+**Tools:** Git, Docker, VS Code, Power BI, Excel
 
 

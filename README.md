@@ -1,5 +1,5 @@
 
-## **Software Developer** | **Full-Stack Development** | **Systems & Game Development** 
+## **Software Developer** | **Systems & Game Development** 
 
 Welcome to my GitHub! I specialize in JavaScript, C#, Python, and SQL, with experience building full-stack applications, multiplayer systems, and developer tools. My background spans software engineering and marketing analytics.
 

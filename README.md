@@ -7,7 +7,7 @@ Welcome to my GitHub! I specialize in JavaScript, C#, Python, and SQL, with expe
  **Email:** drewosmundson@gmail.com  
  
 ## Languages
-**JavaScript, C#, Python, SQL**  
+**JavaScript, C#, Python, SQL, Java**  
 ## Frameworks & Libraries 
 **Node.js, .NET, Express, Socket.IO, THREE.js**  
 ## Tools

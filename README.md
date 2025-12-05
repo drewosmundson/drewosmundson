@@ -1,7 +1,7 @@
 
 ## **Software Developer** | **Systems & Game Development** 
 
-Welcome to my GitHub! I specialize in JavaScript, C#, Python, and SQL, with experience building full-stack applications, multiplayer systems, and developer tools. My background spans software engineering and marketing analytics.
+Welcome to my GitHub! I specialize in JavaScript, C#, Python, and SQL, with experience building full-stack applications, multiplayer systems, and developer tools.
 
  **Portfolio:** [drewosmundson.github.io](https://drewosmundson.github.io)  
  **Email:** drewosmundson@gmail.com  

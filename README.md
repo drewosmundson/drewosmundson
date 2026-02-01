@@ -1,5 +1,5 @@
 
-## **Systems & Game Developer
+## Systems & Game Developer
 
 Welcome to my GitHub!
 

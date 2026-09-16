@@ -1,6 +1,5 @@
 
-## Full Stack Engineer & Information Pipeline Developer
-
+## Full Stack Engineer
 Welcome to my GitHub!
 
  **Portfolio:** [drewosmundson.github.io](https://drewosmundson.github.io)  

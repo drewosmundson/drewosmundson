@@ -1,5 +1,5 @@
 
-## Backend Engineer & Information Pipeline Developer
+## Full Stack Engineer & Information Pipeline Developer
 
 Welcome to my GitHub!
 
